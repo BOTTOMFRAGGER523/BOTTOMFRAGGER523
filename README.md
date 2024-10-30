@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BOTTOMFRAGGER523
 - 👀 I’m interested in C#, Java
 - 🌱 I’m currently learning C#, Java
-- 💞️ I’m looking to collaborate on Nothinh
+- 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: He but no him cuz ill never be him
 - ⚡ Fun fact: funfact
